@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashu6427
 - 👀 I’m interested in web development and Data science
-- 🌱 I’m currently learning ACE
+- 🌱 I’m currently learning at ACE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
