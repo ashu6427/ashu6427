@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashu6427
-- 👀 I’m interested in web development and Data science
-- 🌱 I’m currently learning at ACE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interested in web development and Data science
+- 🌱 currently pursuing B.E Information Technology from Mumbai University.
+- 💞️ I’m looking to collaborate on Python web development and Data Science projects.
+- 📫 Contact: Email: ashutoshbagal6427@gmail.com
 
 <!---
 ashu6427/ashu6427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
