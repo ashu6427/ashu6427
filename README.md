@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashu6427
+- 👋 Hi, I’m Ashutosh Bagal
 - 👀 Interested in web development and Data science
 - 🌱 currently pursuing B.E Information Technology from Mumbai University.
 - 💞️ I’m looking to collaborate on Python web development and Data Science projects.
